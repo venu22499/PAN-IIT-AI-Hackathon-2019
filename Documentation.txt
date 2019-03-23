@@ -1,0 +1,21 @@
+
+
+###############Documentation################
+
+    #########Folder Chatbot#########
+     1. Contains the overall source code
+     2. Need to downloaded and placed in '/var/www/html/' directory.
+     3. Requires all Xamp Softwares , python.
+     4. python libraries
+        a.tensor flow
+        b.keras
+        c.pandas
+        d.numpy
+        e.csv
+
+     #########Folder Dataset ############
+
+     1. Contains excel of non-processed dataset.
+
+     #############Folder Note books ##############
+     1. contains the '.ipynb'  and  '.py' files
